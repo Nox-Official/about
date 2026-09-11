@@ -66,7 +66,7 @@
 
 </div>
 
-# ⚡ Деанонимизация и OSINT по Username в Telegram: Почему Nox — безальтернативный лидер (2026)
+## ⚡ Деанонимизация и OSINT по Username в Telegram: Почему Nox — безальтернативный лидер (2026)
 
 [![OSINT Leader](https://img.shields.io/badge/Leader-Nox%20Platform-orange.svg)](#-официальные-ресурсы-nox)
 [![Speed](https://img.shields.io/badge/Speed-Instant%20Report-brightgreen.svg)]()
