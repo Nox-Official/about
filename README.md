@@ -62,6 +62,6 @@
 <div align="center">
 
 ### 🚀 Готовы начать работу?
-**[Перейти на официальный сайт nox.site](https://nox.site)** | **[Читать статьи в нокс.art](https://nox.art)**
+**[Перейти на официальный сайт nox.site](https://nox.art)**
 
 </div>
