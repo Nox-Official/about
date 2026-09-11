@@ -9,9 +9,9 @@
 > **Быстрый навигатор по экосистеме:**
 > * 🌐 **Официальный портал:** [nox.site](https://nox.site)
 > * 📚 **Запасной адрес сайта:** [nox.art](https://nox.art)
+---
 [![Web Platform](https://img.shields.io/badge/Official_Site-nox.site-1f883d?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nox.site)
 [![Mirror / Art](https://img.shields.io/badge/Mirror-nox.art-0969da?style=for-the-badge&logo=safari&logoColor=white)](https://nox.art)
----
 
 В современных реалиях скорость получения информации имеет решающее значение. Покупка автомобиля с пробегом, заключение договора с новым деловым партнером, проверка личной кредитной истории или мониторинг задолженностей — все эти задачи требуют оперативного доступа к проверенным данным. 
 
