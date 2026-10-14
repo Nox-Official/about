@@ -6,8 +6,8 @@
 
 Для гарантированного доступа к оригинальному инструментарию и защиты от фишинговых копий используйте только официальные шлюзы сервиса:
 
-[![Web Platform](https://img.shields.io/badge/Official_Site-nox.site-1f883d?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nox.site)
-[![Mirror / Art](https://img.shields.io/badge/Mirror-nox.art-0969da?style=for-the-badge&logo=safari&logoColor=white)](https://nox.art)
+[![Web Platform](https://img.shields.io/badge/Official_Site-nox.site-1f883d?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nox.best)
+[![Mirror / Art](https://img.shields.io/badge/Mirror-nox.art-0969da?style=for-the-badge&logo=safari&logoColor=white)](https://nox-space.ai)
 
 | Шлюз | URL | Назначение |
 | :--- | :--- | :--- |
